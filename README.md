@@ -4,10 +4,6 @@
 I was born in city Rairangpur, I did my 12th from Rairangpur College, Rairangpur and I'm currently pursuing my Diploma in Computer Science and Engineering from BOSE, Cuttuck.
 
 
-🐧 Proudly powered by Linux:
-
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@thriveankit_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankitnanda8090@gmail.com) 
 
@@ -25,6 +21,11 @@ I was born in city Rairangpur, I did my 12th from Rairangpur College, Rairangpur
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+
+🐧 Proudly powered by Linux:
+
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
 
 
 ## Languages I know:
