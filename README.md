@@ -7,7 +7,7 @@ I was born in city Rairangpur, I did my 12th from Rairangpur College, Rairangpur
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@thriveankit_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankitnanda8090@gmail.com) 
 
-## 📊 GitHub Stats:
+## My GitHub Statistics:
 ![](https://github-readme-stats.vercel.app/api?username=iamankitnanda&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=iamankitnanda&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamankitnanda&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) 
