@@ -11,14 +11,16 @@ I was born in city Rairangpur, I did my 12th from Rairangpur College, Rairangpur
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@thriveankit_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankitnanda8090@gmail.com) 
 
-## My GitHub Statistics:
-![](https://github-readme-stats.vercel.app/api?username=iamankitnanda&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=iamankitnanda&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamankitnanda&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) 
+## 📊 GitHub Stats
 
- <p align="center">
-  <img  width="400px" height="280px" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif">
-</p>
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=iamankitnanda&theme=rogue&bg_color=transparent&color=8b5cf6&line=8b5cf6&point=bf91f3&hide_border=true" alt="Activity Graph"/>
+</div>
+
+<div align="center">
+  <img width="100%" src="https://streak-stats.demolab.com?user=chatman-media&theme=transparent&hide_border=true&card_width=1000&fire=8b5cf6&border=8b5cf6" alt="GitHub Streak"/>
+</div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=iamankitnanda&theme=radical&no-frame=false&no-bg=true&margin-w=4)
