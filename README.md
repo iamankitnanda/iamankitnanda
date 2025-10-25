@@ -18,7 +18,7 @@ I was born in city Rairangpur, I did my 12th from Rairangpur College, Rairangpur
 </div>
 
 <div align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=chatman-media&theme=transparent&hide_border=true&card_width=1000&fire=8b5cf6&border=8b5cf6" alt="GitHub Streak"/>
+  <img width="100%" src="https://streak-stats.demolab.com?user=iamankitnanda&theme=transparent&hide_border=true&card_width=1000&fire=8b5cf6&border=8b5cf6" alt="GitHub Streak"/>
 </div>
 
 
